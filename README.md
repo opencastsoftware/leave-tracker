@@ -12,3 +12,5 @@ Micro-app for recording employee leave, using Scala and Play Framework.
 From the command line:
 
 `$ sbt run`
+
+This will start the app running on port 9000.
