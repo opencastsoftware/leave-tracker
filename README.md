@@ -2,6 +2,8 @@
 
 Micro-app for recording employee leave, using Scala and Play Framework.
 
+[![CircleCI](https://circleci.com/gh/opencastsoftware/leave-tracker.svg?style=svg)](https://circleci.com/gh/opencastsoftware/leave-tracker)
+
 ## Prerequisites
 
 * [SBT](https://www.scala-sbt.org/)
