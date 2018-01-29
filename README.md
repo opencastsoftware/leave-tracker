@@ -16,3 +16,7 @@ From the command line:
 `$ sbt run`
 
 This will start the app running on port 9000.
+
+## How to contribute
+
+Please see our [contributing guidelines](docs/CONTRIBUTING.md) before undertaking work on the project.
